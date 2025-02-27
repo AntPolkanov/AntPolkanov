@@ -5,4 +5,4 @@
 - 🌱 Interested in mobile development and .NET
 - ⚡ Fun fact: I used to play the violine for 10 years
 
-[![Anton's github stats](https://github-readme-stats.vercel.app/api?username=antpolkanov&theme=dark)](https://github.com/antpolkanov/github-readme-stats)
+[![Anton's github stats](https://github-readme-stats.vercel.app/api?username=antpolkanov&theme=gruvbox)](https://github.com/antpolkanov/github-readme-stats)
