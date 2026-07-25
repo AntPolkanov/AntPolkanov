@@ -14,7 +14,7 @@
 </a>
 <a href='https://github.com/AntPolkanov'>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-xi-two-89.vercel.app/api/top-langs/?username=AntPolkanov&layout=compact">
-    <img alt="AntPolkanov's GitHub Top Languages" src="https://github-readme-stats-xi-two-89.vercel.app/api/top-langs/?username=AntPolkanov&theme=dark&layout=compact">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-xi-two-89.vercel.app/api/top-langs/?username=AntPolkanov&layout=compact&hide=typescript">
+    <img alt="AntPolkanov's GitHub Top Languages" src="https://github-readme-stats-xi-two-89.vercel.app/api/top-langs/?username=AntPolkanov&theme=dark&layout=compacthide=typescript">
   </picture>
 </a>
