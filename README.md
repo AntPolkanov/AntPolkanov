@@ -8,13 +8,13 @@
 
 <a href='https://github.com/AntPolkanov'>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=AntPolkanov&show_icons=true&count_private=true">
-    <img alt="AntPolkanov's GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AntPolkanov&show_icons=true&theme=dark&count_private=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-xi-two-89.vercel.app/api?username=AntPolkanov&show_icons=true&count_private=true">
+    <img alt="AntPolkanov's GitHub Stats" src="https://github-readme-stats-xi-two-89.vercel.app/api?username=AntPolkanov&show_icons=true&theme=dark&count_private=true">
   </picture>
 </a>
 <a href='https://github.com/AntPolkanov'>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AntPolkanov&layout=compact">
-    <img alt="AntPolkanov's GitHub Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AntPolkanov&theme=dark&layout=compact">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-xi-two-89.vercel.app/api/top-langs/?username=AntPolkanov&layout=compact">
+    <img alt="AntPolkanov's GitHub Top Languages" src="https://github-readme-stats-xi-two-89.vercel.app/api/top-langs/?username=AntPolkanov&theme=dark&layout=compact">
   </picture>
 </a>
